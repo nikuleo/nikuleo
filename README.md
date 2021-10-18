@@ -2,6 +2,7 @@
 ### VIEWS
 ![](https://count.getloli.com/get/@ikunsaikou.github.readme)
 
+<head> 
 <base target="_blank">
 <p target="_blank">
 <a target="_blank" href="https://space.bilibili.com/784208"><img src="https://img.shields.io/badge/Bilibili-我的B站-00A1D6?style=for-the-badge&logo=Bilibili&labelColor=ffffff"/></a>
@@ -10,7 +11,7 @@
 </br>
 <a target="_blank" href="https://www.youtube.com/channel/UCfQpx6C9EfkispJNY9VL9tQ"><img src="https://img.shields.io/youtube/channel/views/UCfQpx6C9EfkispJNY9VL9tQ?style=social"/></a>
 </p>
-
+</head>
 
 |                          GitHub状态                          |                        使用最多的语言                        |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
