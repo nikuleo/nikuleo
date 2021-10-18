@@ -1,4 +1,6 @@
-### Hi there 👋
+## わたしわNIKUだ
+### VIEWS
+![](https://count.getloli.com/get/@ikunsaikou.github.readme)
 
 ![](https://github-readme-stats.vercel.app/api?username=ikunsaikou&theme=dark)
 
