@@ -2,8 +2,9 @@
 ### VIEWS
 ![](https://count.getloli.com/get/@ikunsaikou.github.readme)
 
+<base target="_blank">
 <p target="_blank">
-<a target="_blank" href="https://space.bilibili.com/784208"><img target="_blank" src="https://img.shields.io/badge/Bilibili-我的B站-00A1D6?style=for-the-badge&logo=Bilibili&labelColor=ffffff"/></a>
+<a target="_blank" href="https://space.bilibili.com/784208"><img src="https://img.shields.io/badge/Bilibili-我的B站-00A1D6?style=for-the-badge&logo=Bilibili&labelColor=ffffff"/></a>
 </br>
 <a target="_blank" href="http://www.nikusaikou.com./"><img src="https://img.shields.io/badge/Blog-我的Blog-181717?style=for-the-badge&logo=?logo=appveyor&logoColor=181717&labelColor=ffffff"/></a>
 </br>
