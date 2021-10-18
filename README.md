@@ -3,11 +3,11 @@
 ![](https://count.getloli.com/get/@ikunsaikou.github.readme)
 
 <p align="">
-<a target="_blank" url="https://space.bilibili.com/784208"><img src="https://img.shields.io/badge/Bilibili-我的B站-00A1D6?style=for-the-badge&logo=Bilibili&labelColor=ffffff"/></a>
+<a target="_blank" href="https://space.bilibili.com/784208"><img src="https://img.shields.io/badge/Bilibili-我的B站-00A1D6?style=for-the-badge&logo=Bilibili&labelColor=ffffff"/></a>
 </br>
-<a target="_blank" url="http://www.nikusaikou.com./"><img src="https://img.shields.io/badge/Blog-我的Blog-181717?style=for-the-badge&logo=?logo=appveyor&logoColor=181717&labelColor=ffffff"/></a>
+<a target="_blank" href="http://www.nikusaikou.com./"><img src="https://img.shields.io/badge/Blog-我的Blog-181717?style=for-the-badge&logo=?logo=appveyor&logoColor=181717&labelColor=ffffff"/></a>
 </br>
-<a target="_blank" url="https://www.youtube.com/channel/UCfQpx6C9EfkispJNY9VL9tQ"><img src="https://img.shields.io/youtube/channel/views/UCfQpx6C9EfkispJNY9VL9tQ?style=social"/></a>
+<a target="_blank" href="https://www.youtube.com/channel/UCfQpx6C9EfkispJNY9VL9tQ"><img src="https://img.shields.io/youtube/channel/views/UCfQpx6C9EfkispJNY9VL9tQ?style=social"/></a>
 </p>
 
 
