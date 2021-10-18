@@ -25,7 +25,7 @@
   <img src="https://img.shields.io/badge/C/C++-11-659ad2?logo=C%2B%2B&logoColor=659ad2"/>
   <img src="https://img.shields.io/badge/Python-3.8-326c9c?logo=Python&logoColor=326c9c"/>
   <img src="https://img.shields.io/badge/Java-8-e0161a?logo=Java&logoColor=e0161a"/>
-	<img src="https://img.shields.io/badge/JavaScript-es6-efd81d?logo=JavaScript&logoColor=efd81d"/>
+  <img src="https://img.shields.io/badge/JavaScript-es6-efd81d?logo=JavaScript&logoColor=efd81d"/>
   <img src="https://img.shields.io/badge/Lua-5.0-000080?logo=Lua&logoColor=000080"/>
   <img src="https://img.shields.io/badge/HLSL-shader-black"/>
 </p>
@@ -33,5 +33,7 @@
 <p align="center">
 <img src="https://img.shields.io/badge/Unity3D-2020-black"/>
 <img src="https://img.shields.io/badge/Pytorch-1.9.1-orange"/>
+<img src="https://img.shields.io/badge/blender-2.9.3-orange"/>
+<img src="https://img.shields.io/badge/MMD-10th-blue"/>
 </p>
 
