@@ -15,7 +15,7 @@
 
 |                          GitHub状态                          |                        使用最多的语言                        |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ikunsaikou&show_icons=true&theme=gotham) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ikunsaikou&&&layout=compact&theme=merko) |
+| ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nikusaikou&show_icons=true&theme=gotham) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikusaikou&&&layout=compact&theme=merko) |
 
 
 ## 🛠  Languages and Tools
