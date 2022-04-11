@@ -1,6 +1,6 @@
 ## わたしわNIKUだ
 ### VIEWS
-![](https://count.getloli.com/get/@nkunsaikou.github.readme)
+![](https://count.getloli.com/get/@nikusaikou.github.readme)
 
 <head> 
 <base target="_blank">
