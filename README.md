@@ -1,6 +1,6 @@
 ## わたしわNIKUだ
 ### VIEWS
-![](https://moe.nikunokoya.com/get/@nikusaikou.github.readme?theme=moebooru)
+![](https://count.getloli.com/get/@nikusaikou.github.readme)
 
 <head> 
 <base target="_blank">
