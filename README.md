@@ -1,6 +1,6 @@
 ## わたしわNIKUだ
 ### VIEWS
-![](https://count.getloli.com/get/@nikusaikou ?theme=rule34)
+![](https://count.getloli.com/get/@nikusaikou?theme=rule34)
 
 <head> 
 <base target="_blank">
