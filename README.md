@@ -12,9 +12,11 @@
 <a target="_blank" href="https://www.youtube.com/channel/UCfQpx6C9EfkispJNY9VL9tQ"><img src="https://img.shields.io/youtube/channel/views/UCfQpx6C9EfkispJNY9VL9tQ?style=social"/></a>
 </p>
 </head>
+  
+ 
 |                          GitHub状态                          |                        使用最多的语言                        |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nikusaikou&show_icons=true&theme=gotham) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikusaikou&&hide=tsql) |
+| ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nikusaikou&show_icons=true&theme=gotham) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikusaikou&&hide=tsql) |  
 
 
 ## 🛠  Languages and Tools
