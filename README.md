@@ -22,18 +22,19 @@
 ## 🛠  Languages and Tools
 
 <p align="center">
-<img src="https://img.shields.io/badge/C%23-4.0-2c006c?logo=c%20Sharp&logoColor=2c006c"/>
-  <img src="https://img.shields.io/badge/C/C++-11-659ad2?logo=C%2B%2B&logoColor=659ad2"/>
+  <img src="https://img.shields.io/badge/Go-1.20-98F5FF?logo=go"/>
+  <img src="https://img.shields.io/badge/Rust-1.71-black?logo=rust"/>
   <img src="https://img.shields.io/badge/Python-3.8-326c9c?logo=Python&logoColor=326c9c"/>
-  <img src="https://img.shields.io/badge/JavaScript-es6-efd81d?logo=JavaScript&logoColor=efd81d"/>
-  <img src="https://img.shields.io/badge/Lua-5.0-000080?logo=Lua&logoColor=000080"/>
-  <img src="https://img.shields.io/badge/HLSL-shader-black"/>
+  <img src="https://img.shields.io/badge/C%23-4.0-2c006c?logo=c%20Sharp&logoColor=2c006c"/>
+  <img src="https://img.shields.io/badge/C/C++-11-659ad2?logo=C%2B%2B&logoColor=659ad2"/>
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Unity3D-2020-black"/>
-<img src="https://img.shields.io/badge/Pytorch-1.9.1-orange"/>
-<img src="https://img.shields.io/badge/blender-2.9.3-orange"/>
-<img src="https://img.shields.io/badge/MMD-10th-blue"/>
+  <img src="https://img.shields.io/badge/Ubuntu-20.04lts-F4A460?logo=ubuntu"/>
+  <img src="https://img.shields.io/badge/archlinux-stable-AFEEEE?logo=archlinux"/>
+  <img src="https://img.shields.io/badge/Unity3D-2020-black"/>
+  <img src="https://img.shields.io/badge/Pytorch-1.9.1-orange"/>
+  <img src="https://img.shields.io/badge/blender-2.9.3-orange"/>
+  <img src="https://img.shields.io/badge/MMD-10th-blue"/>
 </p>
 
