@@ -13,10 +13,11 @@
 </p>
 </head>
   
- 
+---
+
 |                          GitHub状态                          |                        使用最多的语言                        |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nikuleo&show_icons=true&theme=synthwave) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikuleo&&hide=tsql) |  
+| ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nikuleo&show_icons=true&theme=synthwave) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikuleo&&hide=tsql&theme=Gradient&bg_color=30,ff758c,e4efe9&text_color=black&title_color=29323c) |  
 
 
 ## 🛠  Languages and Tools
@@ -25,7 +26,6 @@
   <img src="https://img.shields.io/badge/Go-1.20-98F5FF?logo=go"/>
   <img src="https://img.shields.io/badge/Python-3.8-326c9c?logo=Python&logoColor=326c9c"/>
   <img src="https://img.shields.io/badge/Rust-1.71-black?logo=rust"/>
-  <img src="https://img.shields.io/badge/C/C++-11-659ad2?logo=C%2B%2B&logoColor=659ad2"/>
 </p>
 
 <p align="center">
@@ -37,3 +37,7 @@
   <img src="https://img.shields.io/badge/MMD-10th-blue"/>
 </p>
 
+
+---
+![TOG](https://raw.githubusercontent.com/nikuleo/nikuleo/output/github-contribution-grid-snake-dark.svg)
+![TOG](https://raw.githubusercontent.com/nikuleo/nikuleo/output/github-contribution-grid-snake.svg)
