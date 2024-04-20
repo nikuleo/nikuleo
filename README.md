@@ -20,12 +20,13 @@
 | ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nikuleo&show_icons=true&theme=synthwave) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikuleo&&hide=tsql&theme=Gradient&bg_color=30,ff758c,e4efe9&text_color=black&title_color=29323c) |  
 
 
-## 🛠  Languages and Tools
+## 🛠  Languages and Tools Used
 
 <p align="center">
   <img src="https://img.shields.io/badge/Go-1.20-98F5FF?logo=go"/>
   <img src="https://img.shields.io/badge/Python-3.8-326c9c?logo=Python&logoColor=326c9c"/>
   <img src="https://img.shields.io/badge/Rust-1.71-black?logo=rust"/>
+  
 </p>
 
 <p align="center">
@@ -39,5 +40,9 @@
 
 
 ---
-![TOG](https://raw.githubusercontent.com/nikuleo/nikuleo/output/github-contribution-grid-snake-dark.svg)
-![TOG](https://raw.githubusercontent.com/nikuleo/nikuleo/output/github-contribution-grid-snake.svg)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nikuleo/nikuleo/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nikuleo/nikuleo/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>   
