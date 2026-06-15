@@ -15,10 +15,10 @@
   
 ---
 
-|                          GitHub状态                          |                        使用最多的语言                        |
-| :----------------------------------------------------------: | :----------------------------------------------------------: |
-| ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nikuleo&show_icons=true&theme=synthwave) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikuleo&&hide=tsql&theme=Gradient&bg_color=30,ff758c,e4efe9&text_color=black&title_color=29323c) |  
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nikuleo&show_icons=true&theme=outrun&hide_border=true" width="495" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikuleo&hide=tsql&layout=compact&theme=outrun&hide_border=true&card_width=495" width="495" />
+</p>
 
 ## 🛠  Languages and Tools Used
 
