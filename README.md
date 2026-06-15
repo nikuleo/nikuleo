@@ -15,10 +15,16 @@
   
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nikuleo&show_icons=true&theme=outrun&hide_border=true" width="495" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikuleo&hide=tsql&layout=compact&theme=outrun&hide_border=true&card_width=495" width="495" />
-</p>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=nikuleo&show_icons=true&theme=outrun&hide_border=true" width="390" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikuleo&hide=tsql&layout=compact&theme=outrun&hide_border=true&card_width=390" width="390" />
+    </td>
+  </tr>
+</table>
 
 ## 🛠  Languages and Tools Used
 
