@@ -18,10 +18,10 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=nikuleo&show_icons=true&theme=outrun&hide_border=true" width="390" />
+      <img src="./profile/stats.svg" width="390" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikuleo&hide=tsql&layout=compact&theme=outrun&hide_border=true&card_width=390" width="390" />
+      <img src="./profile/top-langs.svg" width="390" />
     </td>
   </tr>
 </table>
